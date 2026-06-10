@@ -5,8 +5,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mayuri105&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mayuri105)
-[![GitHub followers](https://img.shields.io/github/followers/mayuri105?style=for-the-badge&logo=github&color=6366f1)](https://github.com/mayuri105?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=mayuri-se&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mayuri-se)
+[![GitHub followers](https://img.shields.io/github/followers/mayuri-se?style=for-the-badge&logo=github&color=6366f1)](https://github.com/mayuri-se?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuri-webdeveloper)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayuri.webdeveloper@gmail.com)
 
@@ -34,23 +34,23 @@ Strong expertise in **PHP**, **Laravel**, **CodeIgniter**, **MySQL**, **JavaScri
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=mayuri105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mayuri-se&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-se&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=mayuri105&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mayuri-se&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuri105&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuri-se&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
 <br/><br/>
 
 <!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/mayuri105/mayuri105/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/mayuri-se/mayuri-se/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 
 </div>
 
@@ -107,7 +107,7 @@ Strong expertise in **PHP**, **Laravel**, **CodeIgniter**, **MySQL**, **JavaScri
 
 ## 💼 Professional Experience
 
-### Full Stack Engineer · [GrabAGun](https://github.com/mayuri105)
+### Full Stack Engineer · GrabAGun
 **04/2026 – Present** · Coppell, Texas
 
 Participated in the development of a large-scale e-commerce platform focused on manufacturer onboarding and product management for a firearms marketplace.
@@ -187,7 +187,7 @@ Parul University, India · **2011 – 2014**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mayuri105-181717?style=for-the-badge&logo=github)](https://github.com/mayuri105)
+[![GitHub](https://img.shields.io/badge/GitHub-mayuri-se-181717?style=for-the-badge&logo=github)](https://github.com/mayuri-se)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mayuri--webdeveloper-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuri-webdeveloper)
 [![Email](https://img.shields.io/badge/Email-mayuri.webdeveloper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayuri.webdeveloper@gmail.com)
 
